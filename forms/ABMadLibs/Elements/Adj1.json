@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Enter an Adjective",
   "headerCols": 2,
-  "height": "auto",
+  "height": 57,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "Adj1",
   "inputType": "text",
   "inputmode": "",
-  "left": 11,
+  "left": 15,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -80,9 +80,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 271,
+  "top": 278,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 150
+  "width": 128
 }

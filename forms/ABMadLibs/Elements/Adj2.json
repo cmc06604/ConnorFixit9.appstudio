@@ -25,14 +25,14 @@
   "footer": "",
   "header": "",
   "headerCols": 2,
-  "height": 50,
+  "height": 37,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "Adj2",
   "inputType": "text",
   "inputmode": "",
-  "left": 8,
+  "left": 16,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -80,9 +80,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 355,
+  "top": 384,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 155
+  "width": 126
 }

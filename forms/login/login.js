@@ -1,4 +1,4 @@
-/*
+
 let accountName = ""
 
 btnSubmit.onclick=function(){
@@ -14,4 +14,3 @@ btnSubmit.onclick=function(){
     ChangeForm(welcome)
 }
 
-*/

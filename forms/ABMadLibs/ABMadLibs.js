@@ -17,7 +17,7 @@ MadLibSubmit.onclick=function(){
   adj5Input = Adj5.value
   
   
-NSB.MsgBox(`HERE IS YOUR MAD LIB:A ${noun1Input} in Nebraska was arrested this morning after ${verb1Input + 'ing'} in front of a ${adj1Input} ${noun2Input}. \n \n The perpetrator had a history of ${verb2Input + 'ing'}, but no one - not even her ${noun3Input} - ever imagined she would ${verb3Input} with a ${adj2Input} ${noun4Input}. Even her ${noun5Input} was surprised, and said \n \n I always thought she was ${adj3Input}, but I never thought she would do something like this. \n \n Either way, we imagine that after witnessing her ${verb4Input+ 'ing'} with a ${adj4Input} ${noun2Input}, there are probably a whole lot of ${adj5Input} ${noun1Input + 's'} that are going to need therapy.`)  
+NSB.MsgBox(`Heres your madlib ${memberName} A ${noun1Input} in Nebraska was arrested this morning after ${verb1Input + 'ing'} in front of a ${adj1Input} ${noun2Input}. \n \n The perpetrator had a history of ${verb2Input + 'ing'}, but no one - not even her ${noun3Input} - ever imagined she would ${verb3Input} with a ${adj2Input} ${noun4Input}. Even her ${noun5Input} was surprised, and said \n \n I always thought she was ${adj3Input}, but I never thought she would do something like this. \n \n Either way, we imagine that after witnessing her ${verb4Input+ 'ing'} with a ${adj4Input} ${noun2Input}, there are probably a whole lot of ${adj5Input} ${noun1Input + 's'} that are going to need therapy.`)  
 
 
 

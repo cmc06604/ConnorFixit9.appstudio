@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "MadLibSubmit",
-  "left": 169,
+  "left": 187,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 401,
+  "top": 422,
   "value": "Submit",
   "width": "auto"
 }
