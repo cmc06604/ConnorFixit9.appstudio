@@ -32,7 +32,7 @@
   "id": "Adj4",
   "inputType": "text",
   "inputmode": "",
-  "left": 165,
+  "left": 200,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -80,9 +80,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 287,
+  "top": 414,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 164
 }

@@ -153,11 +153,20 @@
         "Elements",
         "MadLibSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABMadLibs",
+        "Elements",
+        "LblMessage.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 700,
+  "designWidth": 700,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": "1000",
